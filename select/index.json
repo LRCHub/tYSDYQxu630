@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "大河よ共に泣いてくれ",
+  "base_artist": "フランシュシュ",
+  "createdAt": "2026-03-25T14:13:15.816378Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ - Instrumental",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/01_大河よ共に泣いてくれ_-_Instrumental_フランシュシュ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ (Instrumental)",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/02_大河よ共に泣いてくれ_(Instrumental)_フランシュシュ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/03_大河よ共に泣いてくれ_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ",
+      "artist": "FranChouChou",
+      "has_synced": true,
+      "path": "select/04_大河よ共に泣いてくれ_FranChouChou.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ (Instrumental)",
+      "artist": "FranChouChou",
+      "has_synced": true,
+      "path": "select/05_大河よ共に泣いてくれ_(Instrumental)_FranChouChou.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/06_大河よ共に泣いてくれ_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ - Taigayo tomoni naitekure",
+      "artist": "FranChouChou",
+      "has_synced": true,
+      "path": "select/07_大河よ共に泣いてくれ_-_Taigayo_tomoni_naitekure_FranChouChou.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ",
+      "artist": "346PRO",
+      "has_synced": true,
+      "path": "select/08_大河よ共に泣いてくれ_346PRO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ(TV size)",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/09_大河よ共に泣いてくれ(TV_size)_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ",
+      "artist": "フランシュシュ & アイアンフリル",
+      "has_synced": true,
+      "path": "select/10_大河よ共に泣いてくれ_フランシュシュ_&_アイアンフリル.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ",
+      "artist": "フランシュシュ、アイアンフリル",
+      "has_synced": true,
+      "path": "select/11_大河よ共に泣いてくれ_フランシュシュ、アイアンフリル.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ(Instrumental)",
+      "artist": "フランシュシュ、アイアンフリル",
+      "has_synced": false,
+      "path": "select/12_大河よ共に泣いてくれ(Instrumental)_フランシュシュ、アイアンフリル.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ Instrumental",
+      "artist": "フランシュシュ & アイアンフリル",
+      "has_synced": false,
+      "path": "select/13_大河よ共に泣いてくれ_Instrumental_フランシュシュ_&_アイアンフリル.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ (Instrumental)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/14_大河よ共に泣いてくれ_(Instrumental)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/15_大河よ共に泣いてくれ_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ Instrumental",
+      "artist": "Franchouchou",
+      "has_synced": false,
+      "path": "select/16_大河よ共に泣いてくれ_Instrumental_Franchouchou.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ",
+      "artist": "BOSHIROAD MUSIC",
+      "has_synced": true,
+      "path": "select/17_大河よ共に泣いてくれ_BOSHIROAD_MUSIC.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/18_大河よ共に泣いてくれ_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大河よ共に泣いてくれ",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/pl_01_大河よ共に泣いてくれ_フランシュシュ.txt"
+    }
+  ]
+}
